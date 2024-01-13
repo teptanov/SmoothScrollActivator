@@ -1,0 +1,1 @@
+With the help of smooth_scroll_activate_gui.py (you need to set the requirements from requirements.txt ) you can add activation to the startup, or add one of the files: SmoothScroll_Activator.bat, SmoothScroll_Activator.exe , (or smooth_scroll_activate.py if python is available) to the folder: C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
